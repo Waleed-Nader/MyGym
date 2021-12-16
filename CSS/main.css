@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    background-image:url("../images/MyGym_bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position-x: center;
+    background-position-y: center;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    visibility: inherit;
+}
+.row.g-4.py-5.row-cols-1.row-cols-lg-3{
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+    color: rgb(168, 167, 167);
+
+}
+.inputSU{
+    color: rgb(168, 167, 167);
+    margin-left: 40%;
+    margin-right: 40%;
+
+}
+.btn.btn-outline-light.me-2.a{
+    margin-left: 40%;
+}
+.inputSI{
+    color: rgb(168, 167, 167);
+    margin-left: 40%;
+    margin-right: 40%;
+}
+.btn-cart{
+    text-align: right;
+    margin-top: 200px;
+}
+.link{
+text-decoration:none;
+color:inherit;
+}
+.left-caption{
+margin-left:20px;
+margin-top:20px;
+color: white;
+}
+#txtup{
+font-size:400%;
+font-weight:800;
+}
